@@ -1,0 +1,11 @@
+id,nome,email,data_nascimento
+1,João,joao@email.com,1990-01-01
+2,Maria,maria@email.com,1985-06-15
+3,Ana,ana@email.com,1995-04-20
+4,Pedro,pedro@email.com,1997-10-12
+5,Lucas,lucas@email.com,1992-12-05
+6,Carla,carla@email.com,1987-02-22
+7,Paula,paula@email.com,1994-03-18
+,,invalid@email.com,2000-01-25
+8,Luiza,luiza@email.com,1988-11-14
+1,João Duplicado,joao_dup@email.com,1990-01-01

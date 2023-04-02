@@ -1,0 +1,5 @@
+Hello World!
+
+This is txt file read by Go!
+
+end
