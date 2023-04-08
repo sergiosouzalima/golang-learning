@@ -28,10 +28,10 @@ This project is a simple Go application that reads a TOML configuration file, ex
 user = "your_username"<br/>
 password = "your_password"
 
-2. Run the Go program using the following command:
+2. Run the Go program using the following command:<br/>
 go run main.go
 
-3. The output will display the user and password:
+3. The output will display the user and password:<br/>
 User: your_username<br/>
 Password: your_password
 
