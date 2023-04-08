@@ -25,14 +25,14 @@ This project is a simple Go application that reads a TOML configuration file, ex
 1. Create a `config.toml` file with the following format:
 
 [postgres]
-user = "your_username"
+user = "your_username"<br/>
 password = "your_password"
 
 2. Run the Go program using the following command:
 go run main.go
 
 3. The output will display the user and password:
-User: your_username
+User: your_username<br/>
 Password: your_password
 
 ### Author <a name="paragraph4"></a>
