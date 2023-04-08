@@ -22,9 +22,8 @@ This project is a simple Go application that reads a TOML configuration file, ex
 - `config.toml`: The TOML configuration file containing the postgres section with user and password.
 
 ### Interaction <a name="paragraph3"></a>
-1. Create a `config.toml` file with the following format:
-
-[postgres]
+1. Create a `config.toml` file with the following format:<br/>
+[postgres]<br/>
 user = "your_username"<br/>
 password = "your_password"
 
