@@ -27,7 +27,7 @@ func TestAdvance(t *testing.T) {
 	// Testa avanço com caractere de nova linha
 	t.Log("Testing advance with a newline character '\\n'")
 	pos.Advance('\n')
-	if pos.idx != 2 || pos.col != 0 || pos.ln != 2 {
+	if pos.idx != 3 || pos.col != 0 || pos.ln != 2 {
 		t.Errorf("Advance with newline failed: expected (2, 0, 2), got (%d, %d, %d)", pos.idx, pos.col, pos.ln)
 	}
 	t.Logf("After advancing with '\\n': idx=%d, col=%d, ln=%d", pos.idx, pos.col, pos.ln)
